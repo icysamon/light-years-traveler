@@ -1,5 +1,5 @@
 # Light Years Traveler
-This is a game for [Godot Wild Jam #71
+A game for [Godot Wild Jam #71
 ](https://icysamon.itch.io/light-years-traveler).  
 
 ![](.//doc/readme.png)
