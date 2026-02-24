@@ -25,4 +25,4 @@ Rest at the seasons planet to recharge your batteries.
 | Sound | `icysamon` |
 
 ## Game Engine
-This game is build with Godot Engine 4.2.2.
+Godot Engine 4.2.2.
